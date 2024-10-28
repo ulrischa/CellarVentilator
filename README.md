@@ -1,3 +1,5 @@
+!Openweather hast discontinued the free 2.5 api. So this will not work.
+
 # CellarVentilator
 Check when to ventilate your cellar or any other room
 It checks if weather conditions are met to ventilate the room.
